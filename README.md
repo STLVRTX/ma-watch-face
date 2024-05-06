@@ -1,13 +1,7 @@
 # Modern analog watch face
 
-Useful links: https://github.com/android/wear-os-samples/blob/main/WatchFaceKotlin/app/src/main/java/com/example/android/wearable/alpha/AnalogWatchFaceService.kt
+![Alt text](/screenshots/full_watch_face.png?raw=true "Full watch face")
 
-## Instructions
+This project features a simple, but beautiful watch face for the Google Pixel Watch 2. 
 
-- pair watch with android studio
-  - navigate to settings -> developer settings -> debugging over wlan -> pair device
-  - in android studio -> terminal: `adb pair [displayed pairing ip with port] [displayed safety code]`
-
-- connect watch to android studio
-  - make sure watch is already paired
-  - in android studio -> terminal: `adb connect [displayed watch ip with port]`
+The design itself is inspired by the [C1 Moonglow](https://www.christopherward.com/dress-watches/c1-moonglow/C01-40AMP2-S00K0-VK.html) from Christopher Ward.
