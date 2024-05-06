@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Modern analog watch face</string>
+    <string name="ma_watch_face_name" translatable="false">MAWatchFace</string>
+</resources>
