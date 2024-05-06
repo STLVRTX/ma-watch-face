@@ -1,6 +1,6 @@
 # Modern analog watch face
 
-<img src="/screenshots/full_watch_face.png?raw=true" alt="full watch face" width="600" height="600">
+<p align="center" dir="auto"><img src="/screenshots/full_watch_face.png?raw=true" alt="full watch face" width="600" height="600"></p>
 
 This project features a simple, but beautiful watch face for the Google Pixel Watch 2. 
 
